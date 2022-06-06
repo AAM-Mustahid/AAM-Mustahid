@@ -5,7 +5,7 @@
 I am a student of Daffodil International University. 
 I am trying to be a competitive programmer.
 
-Skills: C/C++
+
 
 - 🔭 I’m currently working on A new Project 
 - 🌱 I’m currently learning C++ 
@@ -16,7 +16,7 @@ Skills: C/C++
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
   
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AAM-Mustahid)](https://github.com/ryo-ma/github-profile-trophy)
 
