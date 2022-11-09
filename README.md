@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on **This Site**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Programming Related Questions**
 
